@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Habit
+comment1.params=name\ frequency\ totalDays\ reminderTime
+comment1.target=Habit(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=java.lang.String\ toFileString()
+comment12.params=line
+comment12.target=Habit\ fromFileString(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getFrequency()
+comment4.params=
+comment4.target=int\ getTotalDays()
+comment5.params=
+comment5.target=int\ getCompletedDays()
+comment6.params=
+comment6.target=java.lang.String\ getReminderTime()
+comment7.params=rt
+comment7.target=void\ setReminderTime(java.lang.String)
+comment8.params=
+comment8.target=void\ markComplete()
+comment9.params=
+comment9.target=double\ getProgress()
+numComments=13
