@@ -1,0 +1,7 @@
+## HabitPal - Smart Habit Tracking System
+
+In today’s fast-paced world, individuals often struggle to maintain consistency in building productive habits due to distractions and lack of structured reminders. The project HabitPal – Smart Habit Tracker is a desktop application designed to help users monitor, manage, and sustain positive habits over time. It provides a simple yet efficient interface to add, modify, and track daily or weekly habits, with features such as progress tracking, streak maintenance, reminders, and motivational feedback.
+
+The project uses Java with the Swing framework to create an interactive Graphical User Interface (GUI). It follows key object-oriented programming principles such as encapsulation, inheritance, and abstraction to ensure modularity and scalability. The system stores all user and habit data persistently through file handling, allowing users to maintain their records even after restarting the application.
+
+A unique feature of HabitPal is its badge-based reward system that encourages users to stay consistent by unlocking badges at various progress milestones (25%, 50%, 75%, 100%). The application also displays motivational quotes and generates custom progress reports, further motivating the user to build long-term discipline. Through its reminders and visualization tools, HabitPal acts not only as a productivity assistant but as a personal accountability partner.
