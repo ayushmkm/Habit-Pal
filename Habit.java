@@ -5,7 +5,7 @@ public class Habit implements Serializable {
     private String frequency;  // Daily / Weekly
     private int totalDays;
     private int completedDays;
-    private String reminderTime; // "HH:mm" or empty
+    private String reminderTime; // "HH:mm" or empty  
 
     public Habit(String name, String frequency, int totalDays, String reminderTime) {
         this.name = name;
